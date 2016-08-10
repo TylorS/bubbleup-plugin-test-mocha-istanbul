@@ -1,6 +1,6 @@
 {
   "name": "bubbleup-plugin-test-mocha-istanbul",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Istanbul plugin for the Mocha Bubbleup plugin",
   "main": "bubbleup-plugin-test-mocha-istanbul/index.js",
   "files": [
