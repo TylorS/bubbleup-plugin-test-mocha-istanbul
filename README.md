@@ -5,9 +5,9 @@
 ## Usage
 ```sh
 npm install --save-dev bubbleup-plugin-test-mocha-istanbul
-bubbleup test # defaults to test/ folder
+istanbul cover ./node_modules/.bin/bubbleup test # defaults to test/ folder
 # or 
-bubbleup test src/*.test.js
+istanbul cover ./node_modules/.bin/bubbleup test src/*.test.js # pass files to test
 ```
 
 that's it!
